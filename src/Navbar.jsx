@@ -80,6 +80,11 @@ function Navbar() {
       <div className="flex items-center gap-5 mt-8">
 
         <div className="w-20 h-20 bg-[#F9F1E7] rounded-lg">
+          <img
+            src={c2}
+            alt=""
+            className="w-full h-full object-cover"
+           /> 
               
         </div>
 
@@ -102,6 +107,11 @@ function Navbar() {
       <div className="flex items-center gap-5 mt-8">
 
         <div className="w-20 h-20 bg-[#F9F1E7] rounded-lg">
+          <img
+            src={c2}
+            alt=""
+            className="w-full h-full object-cover"
+           /> 
         </div>
 
         <div>
